@@ -1,0 +1,4 @@
+A collection of kernel modules which exhibit specific bugs.
+
+This is used to demonstrate the ways ways kernel and its debugging mechanisms 
+react to certain classes of issues.
